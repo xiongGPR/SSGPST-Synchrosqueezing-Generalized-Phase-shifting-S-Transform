@@ -29,7 +29,7 @@ Synthesis test.m: Examples and data for synthetic signal testing. It is also an 
 
 README.md: Documentation.
 
-
+LICENSE: Licence.
 
 # Information about this code
 Author: Hongqiang Xiong
