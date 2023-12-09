@@ -23,10 +23,6 @@ phase_st.m:  Calculate the phase transform of ST at each (frequency,time) pair. 
 
 pixel_connect_dnosing.m: Pixel-connectivity filter used in Ground Penetrating Radar (GPR) data. Using it, threshold filtering can be implemented in the TF domain of SS-GPST, and the examples in the article can be verified.
 
-GPR_data.mat: raw data came from a tunnel detection task by a vehicle-mounted GPR equipped with 350MHz air-coupled antenna in the Lianghekou Tunnel of Jiuzhaigou-Mianyang Expressway in China.
-
-Synthesis test.m: Examples and data for synthetic signal testing. It is also an example of how to run SS-GPST and its signal reconstruction.
-
 README.md: Documentation.
 
 LICENSE: Licence.
