@@ -13,6 +13,8 @@ GPST_fw.m:  Generalized-Phase-shifting-S-Transform (GPST).
 
 phase_gpst.m: Calculate the phase transform of GPST at each (frequency,time) pair. It is an intermediate function for calculating SS-GPST.
 
+Synthetic signal.m：Code for simulating data.
+
 README.md: Documentation.
 
 LICENSE: Licence.
