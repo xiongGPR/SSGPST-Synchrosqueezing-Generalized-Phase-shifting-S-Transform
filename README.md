@@ -9,19 +9,9 @@ synsq_gpst_iw.m: The inverse transform of SS-GPST.
 
 synsq_Fgpst_iw.m: The fast inverse transform of SS-GPST.
 
-synsq_st_fw.m: Synchrosqueezing S-Transform (SS-ST).
-
-synsq_st_iw.m: The inverse transform of SS-ST.
-
 GPST_fw.m:  Generalized-Phase-shifting-S-Transform (GPST).
 
-S_transfom.m: S-Transform (ST).
-
 phase_gpst.m: Calculate the phase transform of GPST at each (frequency,time) pair. It is an intermediate function for calculating SS-GPST.
-
-phase_st.m:  Calculate the phase transform of ST at each (frequency,time) pair. It is an intermediate function for calculating SS-ST.
-
-pixel_connect_dnosing.m: Pixel-connectivity filter used in Ground Penetrating Radar (GPR) data. Using it, threshold filtering can be implemented in the TF domain of SS-GPST, and the examples in the article can be verified.
 
 README.md: Documentation.
 
