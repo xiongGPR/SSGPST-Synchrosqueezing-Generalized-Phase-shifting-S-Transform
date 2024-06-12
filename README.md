@@ -40,3 +40,26 @@ Program size: about 7.55Mb
 # others
 
 SSGPST applied in GPRlab
+
+# Citation
+
+If you find our paper and code useful for your research, please consider giving a star ⭐ and citation 📝 :
+
+@article{xiong2024improved,
+
+  title={An Improved Synchrosqueezing S-Transform and Its Application in a GPR Detection Task},
+  
+  author={Xiong, Hongqiang and An, Baizhou and Sun, Boyang and Lu, Jiayu},
+  
+  journal={Sensors},
+  
+  volume={24},
+  
+  number={10},
+  
+  pages={2981},
+  
+  year={2024},
+  
+  publisher={MDPI}
+}
